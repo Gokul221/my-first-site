@@ -124,6 +124,9 @@ p{
 	text-align: left;
 	padding: 20px 0;
 }
+.selected-pro{
+	text-decoration: underline;
+}
 
 .footer-link{
 	color: #11999E;
